@@ -3,7 +3,7 @@ body {
   letter-spacing:-5px;
   background:#eee;
   background-size:100%;
-  color:#555;
+  color:#0b486b;
   margin:0;
   padding:0;
   font-weight:bold;
@@ -15,16 +15,18 @@ h1, h2, h3, p {
 
 em, a {
   font-style:normal;
-  color:#2E8B57;
+  color:#88c3a4;
+  text-shadow: 3px 3px #000;
 }
 
 strong {
-  color: #9370DB;
+  color: #c85d17;
+  text-shadow: 3px 3px #000;
 }
 
 a {
-  background: #9370DB;
-  color:#000;
+  background: #c85d17;
+  color:#ddd;
   text-decoration:none;
 }
 
